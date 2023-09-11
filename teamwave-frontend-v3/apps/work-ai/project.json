@@ -2,7 +2,7 @@
   "name": "work-ai",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
-  "prefix": "teamwave-frontend-v3",
+  "prefix": "teamwave",
   "sourceRoot": "apps/work-ai/src",
   "tags": [],
   "targets": {

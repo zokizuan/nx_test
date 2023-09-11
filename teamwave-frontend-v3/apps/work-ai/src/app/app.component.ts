@@ -5,7 +5,7 @@ import { NxWelcomeComponent } from './nx-welcome.component';
 @Component({
   standalone: true,
   imports: [NxWelcomeComponent, RouterModule],
-  selector: 'teamwave-frontend-v3-root',
+  selector: 'teamwave-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
 })

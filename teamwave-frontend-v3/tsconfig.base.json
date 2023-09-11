@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@teamwave-frontend-v3/common-ui": ["libs/common-ui/src/index.ts"]
+      "@teamwave/common-ui": ["libs/common-ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

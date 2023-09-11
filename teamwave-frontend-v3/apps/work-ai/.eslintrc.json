@@ -17,7 +17,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "teamwave-frontend-v3",
+            "prefix": "teamwave",
             "style": "kebab-case"
           }
         ]

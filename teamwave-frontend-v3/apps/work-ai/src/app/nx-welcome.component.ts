@@ -2,7 +2,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'teamwave-frontend-v3-nx-welcome',
+  selector: 'teamwave-nx-welcome',
   standalone: true,
   imports: [CommonModule],
   template: `
