@@ -9,7 +9,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "teamwaveFrontendV3",
+            "prefix": "teamwave",
             "style": "camelCase"
           }
         ],

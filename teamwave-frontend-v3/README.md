@@ -7,7 +7,7 @@
 
 ## Start the app
 
-To start the development server run `nx serve teamwave_frontend_V3`. Open your browser and navigate to http://localhost:4200/. Happy coding!
+To start the development server run `nx serve work-ai`. Open your browser and navigate to http://localhost:4200/. Happy coding!
 
 
 ## Generate code
