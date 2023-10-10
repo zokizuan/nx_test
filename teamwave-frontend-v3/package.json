@@ -2,7 +2,9 @@
   "name": "@teamwave/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "npx nx serve work-ai --parallel"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~16.2.0",
